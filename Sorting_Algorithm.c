@@ -99,7 +99,7 @@ break;
 case 4:
 exit(0);
 default:
-printf("Enter a Valid Choice!");
+printf("Enter A Valid Choice!");
 }
 }
 }
